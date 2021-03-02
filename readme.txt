@@ -4,3 +4,4 @@ git ig
 git rng
 git edg
 git lng
+git svg
