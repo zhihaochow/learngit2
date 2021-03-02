@@ -5,4 +5,4 @@ git rng
 git edg
 git lng
 git lgd
-git jd
+git jdsn
