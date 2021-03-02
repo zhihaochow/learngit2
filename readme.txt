@@ -3,3 +3,4 @@ Git is free software.
 git ig 
 git rng
 git edg
+git lng
