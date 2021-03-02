@@ -7,5 +7,6 @@ git lng
 git lgd
 git jdsn
 git xiaoming
-git xiaoha
-git xiaoxi
+git xiaohong
+git xiaoli
+git haha
