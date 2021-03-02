@@ -6,3 +6,4 @@ git edg
 git lng
 git lgd
 git jdsn
+git xiaoming
