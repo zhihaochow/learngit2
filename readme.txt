@@ -10,3 +10,4 @@ git xiaoming
 git xiaohong
 git xiaolizi
 git xiaohuazi
+git xiaohaizizi
