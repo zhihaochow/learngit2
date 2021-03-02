@@ -8,3 +8,4 @@ git lgd
 git jdsn
 git xiaoming
 git xiaohong
+git xiaolizi
